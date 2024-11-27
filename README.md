@@ -1,10 +1,7 @@
-<h1 align="center">
+<h1 >
   Finguitar 🎸
 </h1>
 
-<table>
-  <tr>
-    <td>
 This web-app is called Finguitar (Finger-Guitar).  
 It uses Computer Vision to build an online instrument which you can play using <strong><em>just your fingers</em></strong>. <br>
 You can hold up a gesture with your hand and the web-app will record it using your webcam and play a music note for every gesture!
@@ -23,9 +20,6 @@ Currently we recognize <i>10 gestures</i> to play different sounds:
         <li>LShape(finger+thumb)</li>
         <li>Ok</li>
       </ul>
-  </td>
- </tr>
-</table>
 
 ## 🤖Tech-Stack
 
