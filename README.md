@@ -1,16 +1,6 @@
 <h1 align="center">
-    <img src="https://guitar.com/wp-content/uploads/2018/05/lesson-technique-1-hold-neck-fingers-exercises@1800x1000.jpg" alt="Guitar" width="125" height="125">
-  </a>
-  <br>
   Finguitar 🎸
 </h1>
-
-<div align="center">
-
-  <img src="https://img.shields.io/github/stars/Jash-Shah/Finguitar?color=green&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/Jash-Shah/Finguitar?color=red&style=for-the-badge">
-</div>
-<hr>
 
 <table>
   <tr>
