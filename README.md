@@ -37,10 +37,6 @@ Currently we recognize <i>10 gestures</i> to play different sounds:
  </tr>
 </table>
 
-## Resources
-- [Demo Video](https://youtu.be/pFYSHJIRtao)
-- [Devfolio Submission](https://devfolio.co/submissions/finguitar-00bc)
-
 ## 🤖Tech-Stack
 
 #### Front-end
@@ -65,8 +61,3 @@ The communication is carried out on a <strong>WebSocket</strong> endpoint run by
 - Add a gamified experience for the user, and provide him with a score as a feedback
 - Add a tutorial run, where the user can first train on the set of gestures and get familiar with the sounds.
 
-## 👨‍💻Team Members
-- [Sarvagnya Purohit](https://github.com/saRvaGnyA)
-- [Jash Shah](https://github.com/Jash-Shah)
-- [Pratiksha Sankhe](https://github.com/psankhe28)
-- [Alisha Kamat](https://github.com/alisha-kamat)
